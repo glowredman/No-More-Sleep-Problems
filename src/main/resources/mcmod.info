@@ -6,7 +6,7 @@
 		"description": "Trouble finding sleep in multiplayer? Simply reduce the number of players required to skip the night!",
 		"version": "${modVersion}",
 		"mcversion": "${minecraftVersion}",
-		"url": "https://github.com/GTNewHorizons/No-More-Sleep-Problems",
+		"url": "https://github.com/glowredman/No-More-Sleep-Problems",
 		"updateUrl": "",
 		"authorList": ["glowredman"],
 		"credits": "",
