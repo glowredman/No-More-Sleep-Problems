@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Trouble finding sleep in multiplayer? Simply reduce the number of players required to skip the night!",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "https://github.com/GTNewHorizons/No-More-Sleep-Problems",
+		"updateUrl": "",
+		"authorList": ["glowredman"],
+		"credits": "",
+		"logoFile": "nmsp-logo.png",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+	}]
+}
