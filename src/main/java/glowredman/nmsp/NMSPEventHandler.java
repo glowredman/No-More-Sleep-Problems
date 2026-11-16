@@ -39,6 +39,11 @@ public class NMSPEventHandler {
             }
         }
 
+        if (totalPlayers == 0) {
+            // all players in the OW are miners
+            return;
+        }
+
         int numSleepingPlayers = sleepingPlayers.size();
         float ratio = (float) numSleepingPlayers / totalPlayers;
 
